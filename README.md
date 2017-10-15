@@ -1,6 +1,9 @@
 # Conference Calendar
 This document lists interesting tech conferences throughout the year including most important related information. Different years are represented as branches of this repository.
 
+## Contribution
+If you want to add new conferences please fork the main branch of the repository and create a pull request. I will check your changes and merge them afterwards.
+
 ## iOS
 #### [SwiftAlps](http://theswiftalps.com) • 11 / 23-24 • The Swiss Alps • 599 CHF Regular
 > An experimental event taking place in the Swiss Alps. This event is about community. Period. The major goal is to experiment with the Swift programming language with all the other attendees, trying to learn, while failing, as much as possible.
