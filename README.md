@@ -32,3 +32,9 @@ If you want to add new conferences please fork the repo and create a pull reques
 #### [dotSwift](https://www.dotswift.io) • 01 / 27 • Paris • 119 EUR
 > Come see the best Swift developers worldwide share their insights on the language and its platform.
 
+## Android (Detailed List available here: http://androidweekly.net/conferences)
+#### [Droidcon](https://droidcon.de/) • 9 / 3-5 • Berlin
+#### [SXSW]() • September 15-17 in Frankfurt, Germany
+#### [MWC]() • Feb 26 in Barcelona, Spain
+#### [Google IO]() • May 17-19, 2017
+#### [Github Universe]() • OCT 10 - 12, 2017
