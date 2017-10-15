@@ -32,9 +32,28 @@ If you want to add new conferences please fork the repo and create a pull reques
 #### [dotSwift](https://www.dotswift.io) • 01 / 27 • Paris • 119 EUR
 > Come see the best Swift developers worldwide share their insights on the language and its platform.
 
-## Android (Detailed List available here: http://androidweekly.net/conferences)
-#### [Droidcon](https://droidcon.de/) • 9 / 3-5 • Berlin
-#### [SXSW]() • September 15-17 in Frankfurt, Germany
-#### [MWC]() • Feb 26 in Barcelona, Spain
-#### [Google IO]() • May 17-19, 2017
-#### [Github Universe]() • OCT 10 - 12, 2017
+## Android
+#### [DevFest Florida](https://devfestflorida.org) • 11 / 11 • 
+> Florida's biggest Google technology conference. Organized by three Google Developer Groups in the central Florida area: Space Coast, Central Florida, and Tampa Bay. These GDG chapters support the Orlando, Melbourne and Tampa/St. Pete areas of central Florida.
+#### [Droidcon London](http://uk.droidcon.com) • 10 / 26-27 • London, UK
+> Want to meet the international Android community, listen to expert speakers, find out about all the latest Android advances and see fantastic new technologies? Then join us at droidcon London, the largest Android developer conference in Europe!
+#### [ Mobilization Poland](http://2017.mobilization.pl) • 10 / 21 • ŁÓDŹ, Poland
+> Mobilization is a conference dedicated to mobile technologies. The main scope is development of mobile solutions aimed at smartphones and tablets, with particular interest in Android, iOS and HTML5.
+#### [mobiconf](https://2017.mobiconf.org) • 10 / 05-06 • Krakow, Poland
+> Mobiconf is an international conference for iOS, Android, and Java developers, UI/UX designers, software testers, Project Managers, Product Owners and CTOs. Every year, this two days-long event attracts over 350 mobile whizzes from almost every continent. Well, maybe not from Antarctica :) This must-see conference brings mobile related subjects including development, UI/UX design, project management and business solutions built with mobile.
+#### [Droidcon NYC](http://droidcon.nyc) • 09 / 25-26 • New York City, US
+> The conference is made up of technical Android talks and workshops around topics like core Android development, testing, enterprise solutions, security, automotive/connected cars, mobile payment solutions, smart home solutions, devices (e.g. wearables), material design and more.
+#### [androidTO](http://androidto.com) • 09 / 20 • Toronto, Canada
+> As with AndroidTO conferences in the past, you can expect a group of speakers sharing insight into the latest technologies and techniques, representing companies and and organizations that are defining our future. The AndroidTO Alumni of speakers includes an incredible roster from companies such as Google, Tumblr, Cyanogen, Facebook, 500px, Adobe, just to name a few...
+#### [SXSW]() • 09 / 15-17 •  Frankfurt
+#### [Droidcon](https://droidcon.de/) • 09 / 03-05 • Berlin, Germany
+> The conference is made up of technical Android talks and workshops around topics like core Android development, testing, enterprise solutions, security, automotive/connected cars, mobile payment solutions, smart home solutions, devices (e.g. wearables), material design and more.
+#### [Google I/O](https://events.google.com/io/) • 05 / 17-19 • Mountain View, US
+> Google I/O is an annual developer festival held at the outdoor Shoreline Amphitheatre.
+
+## Diverse
+
+#### [Github Universe](https://githubuniverse.com) • 10 / 10-12
+> The Universe may be infinite, but tickets are sold out. Tune in to the live stream to join sessions from your corner of the galaxy. Connect with more than 1,000 developers and business leaders over three days of sessions and workshops. Learn best practices and try out new ways to work better with industry experts and the GitHub Team. Celebrate the creativity and curiosity of the software community—and support the people who make it a better place.
+#### [Mobile World Congress]() • 02 / 26 • Barcelona, Spain
+> The GSMA Mobile World Congress is a combination of the world's largest exhibition for the mobile industry and a conference featuring prominent executives representing mobile operators, device manufacturers, technology providers, vendors and content owners from across the world.
