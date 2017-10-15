@@ -1,4 +1,4 @@
-# Conference Calendar
+# Conference Calendar 2017
 This document lists interesting tech conferences throughout the year including most important related information. Different years are represented as branches of this repository.
 
 ## Contribution
