@@ -15,4 +15,16 @@ This document is lists interesting tech conferences throughout the year includin
 #### [FrenchKit](http://frenchkit.fr) • 09 / 22-23 • Paris • 100€ Blind Bird, 130€ Early Bird, 180€ Regular
 > FrenchKit is the first iOS and macOS conference in France. It will focus on a wide range of subjects, from the Cocoa APIs to Swift, covered by some of the most prominent developers in the international community.
 #### [Macoun](https://macoun.de) • 10 / 07-08 • Frankfurt • ~170€ Regular, 259€ Company Ticket
-> Die Macoun ist die größte iOS- und OS X-Entwicklerkonferenz in Europa.
+> The Macoun is the Europes biggest, German speaking iOS-, tvOS and macOS-developer conference.
+#### [Pragma Conference](http://www.pragmaconference.com) • 11 / 11-13 • Verona
+> The Italian iOS/macOS/watchOS/tvOS Developers Conference
+#### [WWDC](https://developer.apple.com/wwdc) • 06 / 05-09 • San Jose
+> Technology alone is not enough.Technology must intersect with the liberal arts and the humanities, to create new ideas and experiences that push society forward. This summer we bring together thousands of brilliant minds representing many diverse perspectives, passions, and talents to help us change the world.
+#### [try! Swift](https://www.tryswift.co/events/2017/nyc/) • 09 / 05-06 • New York City • invite only
+> try! Swift is an immersive community gathering about Swift Language Best Practices, Application Development in Swift, Server-Side Swift, Open Source Swift, and the Swift Community.
+#### [SwiftAlps](http://theswiftalps.com) • 11 / 23-24 • The Swiss Alps • 599CHF Regular
+> An experimental event taking place in the Swiss Alps. This event is about community. Period. The major goal is to experiment with the Swift programming language with all the other attendees, trying to learn, while failing, as much as possible.
+#### [dotSwift](https://www.dotswift.io) • 01 / 27 • Paris • 119€
+> Come see the best Swift developers worldwide share their insights on the language and its platform.
+#### [NSSpain](https://2017.nsspain.com) • [@nsspain](https://twitter.com/nsspain) • 09 / 13-15 • Logroño • 229€ Early Bird, 259 Second Early Bird, 299 Standard
+> The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!
