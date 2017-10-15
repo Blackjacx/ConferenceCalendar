@@ -1,8 +1,7 @@
 # Conference Calendar
-This document is lists interesting tech conferences throughout the year including most important related information. Each branch represents the conference calendar for a specific year.
+This document lists interesting tech conferences throughout the year including most important related information. Different years are represented as branches of this repository.
 
 ## iOS
-<details>
 #### [Playgrounds](http://www.playgroundscon.com) • 02 / 23-24 • Melbourne
 > Playgrounds is an independent Australian conference dedicated to Swift and Apple developers.
 #### [App Builders](https://www.appbuilders.ch) • 04 / 24-25 • Lausanne • 349 CHF
@@ -29,4 +28,3 @@ This document is lists interesting tech conferences throughout the year includin
 > Come see the best Swift developers worldwide share their insights on the language and its platform.
 #### [NSSpain](https://2017.nsspain.com) • [@nsspain](https://twitter.com/nsspain) • 09 / 13-15 • Logroño • 229 EUR Early Bird, 259 EUR Second Early Bird, 299 EUR Standard
 > The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!
-</details>
