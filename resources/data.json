@@ -1,5 +1,6 @@
 {
   "data": {
+    "2024": [],
     "2023": [
       {
         "name": "iOS Conf SG",
@@ -7,7 +8,7 @@
         "twitter": null,
         "dates": "01 / 12-13",
         "location": "🇸🇬 Singapore",
-        "pricing": [],
+        "pricing": null,
         "description": "Run by iOS Developers, for the community since 2013. iOS Conf SG is recognised as the best iOS conference by the [Swift Community](https://www.hackingwithswift.com/awards)"
       },
       {
@@ -16,7 +17,7 @@
         "twitter": null,
         "dates": "01 / 21",
         "location": "🇯🇵 Tokyo",
-        "pricing": [],
+        "pricing": null,
         "description": ""
       },
       {
@@ -50,7 +51,7 @@
         "twitter": null,
         "dates": "05 / 04-05",
         "location": "🇮🇹 Turin",
-        "pricing": [],
+        "pricing": null,
         "description": "Swift Heroes is a conference **hosted in Turin, Italy, and broadcast live** across the world for developers, designers and project managers at all levels of experience with the Swift ecosystem."
       },
       {
@@ -59,7 +60,7 @@
         "twitter": null,
         "dates": "05 / 09-12",
         "location": "🇳🇱 Amsterdam",
-        "pricing": [],
+        "pricing": null,
         "description": "By app developers, for app developers"
       },
       {
@@ -108,7 +109,7 @@
         "twitter": null,
         "dates": "06 / 05-09",
         "location": "🇺🇸 Cupertino",
-        "pricing": [],
+        "pricing": null,
         "description": "Apple's world wide developer conference"
       },
       {
@@ -151,7 +152,7 @@
         "twitter": null,
         "dates": "09 / 05-06",
         "location": "🇳🇱 Texel (on an island)",
-        "pricing": [],
+        "pricing": null,
         "description": "Swift Island is an experimental conference in the broadest sense. After WWDC, we invite you to join us for a hands-on experience with all of Apple’s newly announced API's and Frameworks, in sessions guided by top-notch mentors."
       },
       {
@@ -225,7 +226,7 @@
         "twitter": null,
         "dates": "11 / 7-9",
         "location": "🇳🇱 Amsterdam",
-        "pricing": [],
+        "pricing": null,
         "description": "Conference for iOS Developers"
       },
       {
@@ -234,7 +235,7 @@
         "twitter": null,
         "dates": "",
         "location": "",
-        "pricing": [],
+        "pricing": null,
         "description": ""
       },
       {
@@ -292,7 +293,7 @@
         "twitter": "https://twitter.com/playgroundconf",
         "dates": "n/a",
         "location": "🇦🇺 Melbourne",
-        "pricing": [],
+        "pricing": null,
         "description": "Playgrounds is an independent Australian conference dedicated to Swift and Apple developers."
       },
       {
@@ -310,7 +311,7 @@
         "twitter": null,
         "dates": "n/a",
         "location": "🇬🇧 London",
-        "pricing": [],
+        "pricing": null,
         "description": ""
       },
       {
@@ -319,7 +320,7 @@
         "twitter": null,
         "dates": "n/a",
         "location": "🇪🇸 Barcelona",
-        "pricing": [],
+        "pricing": null,
         "description": "App design & development conference"
       },
       {
@@ -328,7 +329,7 @@
         "twitter": null,
         "dates": "n/a",
         "location": "🇩🇪 Karlsruhe",
-        "pricing": [],
+        "pricing": null,
         "description": "German speaking conference about Apple technology"
       }
     ]
