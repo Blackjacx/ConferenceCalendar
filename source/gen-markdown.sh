@@ -6,6 +6,13 @@ script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
 data=$(jq '.' "$script_dir/../resources/data.json" | jq '.data')
 readarray -t years < <(printf '%s' "$data" | jq -r 'keys_unsorted.[]')
 
+out+=(
+    "# Conference Calendar"
+    "This site lists interesting tech conferences throughout the year(s) including most important related information."
+    "## Contribution"
+    "If you want to contribute, please fork the repo and create a pull request from `main` to your branch. I will review your changes and merge them."
+)
+
 for year in "${years[@]}"; do
     out+=(
         "## $year"
@@ -33,7 +40,7 @@ for year in "${years[@]}"; do
     done
 done
 
-printf '%s\n' "${out[@]}" >> "index.md"
+printf '%s\n' "${out[@]}" > "index.md"
 
 # tmp_file=$(mktemp)
 # printf '%s\n' "${out[@]}" >> "$tmp_file"
