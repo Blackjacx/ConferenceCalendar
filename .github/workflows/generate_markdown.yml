@@ -35,6 +35,7 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Generate Markdown
         run: |
+          ls -la
           ./source/gen-markdown.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
