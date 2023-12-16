@@ -3,11 +3,15 @@ This site lists interesting tech conferences throughout the year(s) including mo
 ## Contribution
 If you want to contribute, please fork the repo and create a pull request from  to your branch. I will review your changes and merge them.
 ## 2024
+
 | Name | Twitter | Dates | Location | Pricing | Description |
-|------|---|-------|----------|---------|-------------|
+| --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |
+
 ## 2023
+
 | Name | Twitter | Dates | Location | Pricing | Description |
-|------|---|-------|----------|---------|-------------|
+| --- | --- | --- | --- | --- | --- |
 | [iOS Conf SG](https://iosconf.sg) |  | 01 / 12-13 | 🇸🇬 Singapore |  | Run by iOS Developers, for the community since 2013. iOS Conf SG is recognised as the best iOS conference by the [Swift Community](https://www.hackingwithswift.com/awards) |
 | [try! Swift Tokyo](https://tryswift.jp) |  | 01 / 21 | 🇯🇵 Tokyo |  |  |
 | [NYSwifty](https://nyswifty.com) |  | 04 / 18-19 | 🇺🇸 New York City | `[{"name":"Early Bird","value":49900,"currency":"USD"},{"name":"Regular","value":59900,"currency":"USD"},{"name":"Live Stream","value":9900,"currency":"USD"}]` | A brand new iOS conference in NYC |
