@@ -33,7 +33,9 @@ for year in "${years[@]}"; do
     done
 done
 
-tmp_file=$(mktemp)
-printf '%s\n' "${out[@]}" >> "$tmp_file"
-macdown "$tmp_file"
+printf '%s\n' "${out[@]}" >> "index.md"
+
+# tmp_file=$(mktemp)
+# printf '%s\n' "${out[@]}" >> "$tmp_file"
+# macdown "$tmp_file"
 # rm -rf "$tmp_file"
