@@ -2,6 +2,62 @@
   "data": {
     "2024": [
       {
+        "name": "iOS Conf SG",
+        "url": "https://iosconf.sg",
+        "twitter": null,
+        "dates": "01 / 18-19",
+        "location": "🇸🇬 Singapore",
+        "pricing": [
+          { "name": "Conference Only", "value": 29900, "currency": "SGD" },
+          { "name": "Bundle", "value": 39900, "currency": "SGD" }
+        ],
+        "description": "Run by iOS Developers, for the community since 2013. iOS Conf SG is recognised as the best iOS conference by the [Swift Community](https://www.hackingwithswift.com/awards)"
+      },
+      {
+        "name": "AppDevCon",
+        "url": "https://appdevcon.nl",
+        "twitter": null,
+        "dates": "03 / 12-15",
+        "location": "🇳🇱 Amsterdam",
+        "pricing": [],
+        "description": "By app developers, for app developers"
+      },
+      {
+        "name": "try! Swift Tokyo",
+        "url": "https://tryswift.jp",
+        "twitter": null,
+        "dates": "03 / 22-24",
+        "location": "🇯🇵 Tokyo",
+        "pricing": [],
+        "description": ""
+      },
+      {
+        "name": "SwiftHEROES",
+        "url": "https://swiftheroes.com/2024",
+        "twitter": null,
+        "dates": "04 / 18-19",
+        "location": "🇮🇹 Turin",
+        "pricing": [
+          { "name": "Very early bird (+ VAT)", "value": 12900, "currency": "EUR" },
+          { "name": "Early bird (+ VAT)", "value": 19900, "currency": "EUR" },
+          { "name": "Normal bird (+ VAT)", "value": 24900, "currency": "EUR" },
+          { "name": "Late bird (+ VAT)", "value": 39900, "currency": "EUR" }          
+        ],
+        "description": "Swift Heroes is a conference **hosted in Turin, Italy, and broadcast live** across the world for developers, designers and project managers at all levels of experience with the Swift ecosystem."
+      },
+      {
+        "name": "Deep Dish Swift",
+        "url": "https://deepdishswift.com",
+        "twitter": null,
+        "dates": "05 / 05-07",
+        "location": "🇺🇸 Chicago",
+        "pricing": [
+          { "name": "Early Bird", "value": 54900, "currency": "USD" },
+          { "name": "Standard", "value": 64900, "currency": "USD" }
+        ],
+        "description": "A supreme Swift developer conference being served in Chicago, Illinois"
+      },
+      {
         "name": "iOSKonf",
         "url": "https://www.ioskonf.mk",
         "twitter": null,
@@ -12,7 +68,282 @@
           { "name": "Talks only (+ VAT)", "value": 15000, "currency": "EUR" },
           { "name": "Workshop only (+ VAT)", "value": 15000, "currency": "EUR" }
         ],
+        "description": "by CocoaHeadsMK"
+      },
+      {
+        "name": "UXDX",
+        "url": "https://uxdx.com/",
+        "twitter": null,
+        "dates": "05 / 15-18",
+        "location": "🇺🇸 New York City (& online)",
+        "pricing": [
+          { "name": "Online", "value": 35900, "currency": "USD" },
+          { "name": "Live • Talks", "value": 104900, "currency": "USD" },
+          { "name": "Live • Talks & Workshops", "value": 164900, "currency": "USD" },
+          { "name": "Live • Executive & Talks & Workshops", "value": 364900, "currency": "USD" }
+        ],
+        "description": "Learn the latest Product, UX, Design and Dev practices, increase your T-shaped skills and discover the techniques companies are using to empower teams to deliver."
+      },      
+      {
+        "name": "WWDC",
+        "url": "https://developer.apple.com/wwdc",
+        "twitter": null,
+        "dates": "06 / 10-14",
+        "location": "🇺🇸 Cupertino",
+        "pricing": [],
+        "description": "Apple's world wide developer conference"
+      },
+      {
+        "name": "One More Thing",
+        "url": "https://omt-conf.com/",
+        "twitter": null,
+        "dates": "06 / 10-14",
+        "location": "🇺🇸 Cupertino",
+        "pricing": [
+          { "name": "Ultra", "value": 85000, "currency": "USD" },
+          { "name": "Max", "value": 50000, "currency": "USD" },
+          { "name": "Pro (pay what you can)", "value": 0, "currency": "USD" }
+        ],
+        "description": "The world's largest IRL gathering of Apple developers"
+      },
+      {
+        "name": "SwiftConf",
+        "url": "https://swiftconf.com",
+        "twitter": null,
+        "dates": "08 / 07-08",
+        "location": "🇩🇪 Cologne",
+        "pricing": [
+          { "name": "Regular", "value": 52900, "currency": "EUR" }
+        ],
+        "description": "International Swift and iOS Conference"
+      },
+      {
+        "name": "Swift Island",
+        "url": "https://swiftisland.nl",
+        "twitter": null,
+        "dates": "08 / 27-29",
+        "location": "🇳🇱 Texel (on an island)",
+        "pricing": [],
+        "description": "Swift Island is an experimental conference in the broadest sense. After WWDC, we invite you to join us for a hands-on experience with all of Apple’s newly announced API's and Frameworks, in sessions guided by top-notch mentors."
+      },
+      {
+        "name": "iOSDevUK",
+        "url": "https://www.iosdevuk.com",
+        "twitter": null,
+        "dates": "09 / 02-05",
+        "location": "🇬🇧 Aberystwyth",
+        "pricing": [
+          { "name": "Early Bird", "value": 17500, "currency": "GBP" },
+          { "name": "Regular", "value": 25000, "currency": "GBP" }
+        ],
+        "description": "The Duracell bunny of conferences"
+      },
+      {
+        "name": "SwiftConnection",
+        "url": "https://swiftconnection.io",
+        "twitter": null,
+        "dates": "09 / 23-24",
+        "location": "🇫🇷 Paris",
+        "pricing": [
+          { "name": "Blind Bird", "value": 29900, "currency": "EUR" },
+          { "name": "Early Bird", "value": 34900, "currency": "EUR" },
+          { "name": "Regular Bird", "value": 39900, "currency": "EUR" }
+        ],
+        "description": "Swift Connection is the new FrenchKit, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies since 2016."
+      },
+      {
+        "name": "SwiftLeeds",
+        "url": "https://swiftleeds.co.uk",
+        "twitter": null,
+        "dates": "10 / 08-09",
+        "location": "🇬🇧 Leeds",
+        "pricing": [
+          { "name": "Super Early Bird", "value": 18000, "currency": "GBP" },
+          { "name": "Early Bird", "value": 20000, "currency": "GBP" },
+          { "name": "Standard", "value": 22000, "currency": "GBP" },
+          { "name": "Standard Student", "value": 18000, "currency": "GBP" },
+          { "name": "Live Stream Pass", "value": 6900, "currency": "GBP" }
+        ],
+        "description": "In-person conferences are the best way to meet like-minded people who enjoy building apps with Swift. You can also learn from the best people in the industry and chat about all things Swift."
+      },
+      {
+        "name": "Pragma Conference",
+        "url": "https://www.pragmaconference.com",
+        "twitter": null,
+        "dates": "10 / 29-30",
+        "location": "🇮🇹 Bologna",
+        "pricing": [
+          { "name": "Swift Early Bird", "value": 17000, "currency": "EUR" },
+          { "name": "Super Early Bird", "value": 21000, "currency": "EUR" }
+        ],
+        "description": "The Italian Apple Developers Conference"
+      },
+      {
+        "name": "DO iOS",
+        "url": "https://do-ios.com",
+        "twitter": null,
+        "dates": "11 / 12-14",
+        "location": "🇳🇱 Amsterdam",
+        "pricing": [
+          { "name": "Early Bird + Workshop", "value": 60000, "currency": "EUR" },
+          { "name": "Early Bird", "value": 30000, "currency": "EUR" },
+          { "name": "Regular + Workshop", "value": 70000, "currency": "EUR" },
+          { "name": "Regular", "value": 35000, "currency": "EUR" },
+          { "name": "Workshop", "value": 35000, "currency": "EUR" }
+        ],
+        "description": "Conference for iOS Developers"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "name": "The conferences below take a break or have no dates announced yet",
+        "url": "",
+        "twitter": null,
+        "dates": "",
+        "location": "",
+        "pricing": [],
         "description": ""
+      },
+      {
+        "name": "NSSpain",
+        "url": "https://nsspain.com",
+        "twitter": "nsspain",
+        "dates": "n/a",
+        "location": "🇪🇸 Logroño",
+        "pricing": [],
+        "description": "The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!"
+      },
+      {
+        "name": "ADDC",
+        "url": "https://addconf.com",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇪🇸 Barcelona",
+        "pricing": [],
+        "description": "App design & development conference"
+      },
+      {
+        "name": "heise MacDev",
+        "url": "https://heise-macdev.de",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇩🇪 Karlsruhe",
+        "pricing": [],
+        "description": "German speaking conference about Apple technology"
+      },
+      {
+        "name": "SwiftAlps",
+        "url": "https://www.theswiftalps.com/",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇨🇭 Swiss Alps",
+        "pricing": [],
+        "description": "An experimental event taking place in the Swiss Alps. This event is about community. Period. The major goal is to experiment with the Swift programming language with all the other attendees, trying to learn, while failing, as much as possible."
+      },
+      {
+        "name": "Playground",
+        "url": "https://twitter.com/playgroundconf",
+        "twitter": "playgroundconf",
+        "dates": "n/a",
+        "location": "🇦🇺 Melbourne",
+        "pricing": [],
+        "description": "Playgrounds is an independent Australian conference dedicated to Swift and Apple developers."
+      },
+      {
+        "name": "AltConf",
+        "url": "https://altconf.com",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇺🇸 San Jose",
+        "pricing": [],
+        "description": "AltConf is a community-driven event, assembled to serve developers and a product driven community."
+      },
+      {
+        "name": "UIKonf",
+        "url": "https://www.uikonf.com",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇩🇪 Berlin",
+        "pricing": [],
+        "description": "UIKonf is Berlin's independent conference for serious iOS developers."
+      },
+      {
+        "name": "try! Swift NYC",
+        "url": "https://www.tryswift.co/events/2023/nyc/",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇺🇸 New York City",
+        "pricing": [],
+        "description": "This year, the focus of the conference will be on AI + Swift / iOS Development."
+      },
+      {
+        "name": "App Builders",
+        "url": "https://www.appbuilders.ch",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇨🇭 Ascona",
+        "pricing": [],
+        "description": "A conference about mobile technologies in the heart of Europe."
+      },
+      {
+        "name": "Macoun",
+        "url": "https://macoun.de",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇩🇪 Frankfurt am Main",
+        "pricing": [],
+        "description": "The Macoun is Europes biggest, German speaking Apple developer conference"
+      },
+      {
+        "name": "Swift TO Conf",
+        "url": "https://www.swiftconf.to",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇨🇦 Toronto",
+        "pricing": [],
+        "description": "Two days filled with talks about all things Swift programming. Beyond just iOS and Mac development, this conference is about celebrating the language and its many uses."
+      },
+      {
+        "name": "plSwift",
+        "url": "https://plswift.com",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇵🇱 Warsaw",
+        "pricing": [],
+        "description": "A major iOS conference in central europe"
+      },
+      {
+        "name": "NYSwifty",
+        "url": "https://nyswifty.com",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇺🇸 New York City",
+        "pricing": [],
+        "description": "A brand new iOS conference in NYC"
+      },
+      {
+        "name": "dotSwift",
+        "url": "https://www.dotswift.io",
+        "twitter": null,
+        "dates": "n/a",
+        "location": "🇫🇷 Paris",
+        "pricing": [],
+        "description": "Come see the best Swift developers worldwide share their insights on the language and its platform."
       }
     ],
     "2023": [
@@ -184,6 +515,19 @@
         "description": "This year, the focus of the conference will be on AI + Swift / iOS Development."
       },
       {
+        "name": "NSSpain",
+        "url": "https://nsspain.com",
+        "twitter": "nsspain",
+        "dates": "09 / 14-15",
+        "location": "🇪🇸 Logroño",
+        "pricing": [
+          { "name": "Early Bird", "value": 22900, "currency": "EUR" },
+          { "name": "Second Early Bird", "value": 25900, "currency": "EUR" },
+          { "name": "Standard", "value": 29900, "currency": "EUR" }
+        ],
+        "description": "The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!"
+      },
+      {
         "name": "SwiftConnection",
         "url": "https://swiftconnection.io",
         "twitter": null,
@@ -211,7 +555,7 @@
       },
       {
         "name": "Pragma Conference",
-        "url": "http://www.pragmaconference.com",
+        "url": "https://www.pragmaconference.com",
         "twitter": null,
         "dates": "10 / 05-06",
         "location": "🇮🇹 Bologna",
@@ -244,7 +588,7 @@
         "description": "Conference for iOS Developers"
       },
       {
-        "name": "The conferences below take a break",
+        "name": "The conferences below take a break or have no dates announced yet",
         "url": "",
         "twitter": null,
         "dates": "",
@@ -258,39 +602,26 @@
         "twitter": null,
         "dates": "n/a",
         "location": "🇨🇭 Ascona",
-        "pricing": [{ "name": "", "value": 34900, "currency": "CHF" }],
+        "pricing": [],
         "description": "A conference about mobile technologies in the heart of Europe."
       },
       {
         "name": "UIKonf",
-        "url": "http://www.uikonf.com",
+        "url": "https://www.uikonf.com",
         "twitter": null,
         "dates": "n/a",
         "location": "🇩🇪 Berlin",
-        "pricing": [{ "name": "Regular", "value": 52900, "currency": "EUR" }],
+        "pricing": [],
         "description": "UIKonf is Berlin's independent conference for serious iOS developers."
       },
       {
         "name": "AltConf",
-        "url": "http://altconf.com",
+        "url": "https://altconf.com",
         "twitter": null,
         "dates": "n/a",
         "location": "🇺🇸 San Jose",
-        "pricing": [{ "name": "Free", "value": 0, "currency": "EUR" }],
+        "pricing": [],
         "description": "AltConf is a community-driven event, assembled to serve developers and a product driven community."
-      },
-      {
-        "name": "NSSpain",
-        "url": "https://nsspain.com",
-        "twitter": "nsspain",
-        "dates": "n/a",
-        "location": "🇪🇸 Logroño",
-        "pricing": [
-          { "name": "Early Bird", "value": 22900, "currency": "EUR" },
-          { "name": "Second Early Bird", "value": 25900, "currency": "EUR" },
-          { "name": "Standard", "value": 29900, "currency": "EUR" }
-        ],
-        "description": "The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!"
       },
       {
         "name": "SwiftAlps",
@@ -298,7 +629,7 @@
         "twitter": null,
         "dates": "n/a",
         "location": "🇨🇭 Swiss Alps",
-        "pricing": [{ "name": "Regular", "value": 59900, "currency": "CHF" }],
+        "pricing": [],
         "description": "An experimental event taking place in the Swiss Alps. This event is about community. Period. The major goal is to experiment with the Swift programming language with all the other attendees, trying to learn, while failing, as much as possible."
       },
       {
@@ -316,7 +647,7 @@
         "twitter": null,
         "dates": "n/a",
         "location": "🇫🇷 Paris",
-        "pricing": [{ "name": "", "value": 11900, "currency": "EUR" }],
+        "pricing": [],
         "description": "Come see the best Swift developers worldwide share their insights on the language and its platform."
       },
       {
