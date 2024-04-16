@@ -8,6 +8,26 @@ If you want to contribute, please fork the repo and create a pull request from `
 
 ## 2024
 
+### [iOSKonf](https://www.ioskonf.mk) 
+
+
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>05 / 14-15</td> <td>🇲🇰 Skopje</td> <td><ul><li>250.00 EUR - Talks + Workshops (+ VAT)</li><li>150.00 EUR - Talks only (+ VAT)</li><li>150.00 EUR - Workshop only (+ VAT)</li></ul></td>
+
+</tr>
+
+</table>
+
 ## 2023
 
 ### [iOS Conf SG](https://iosconf.sg) 
