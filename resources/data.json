@@ -117,7 +117,7 @@
           { "name": "Group (+ VAT)", "value": 89900, "currency": "GBP" },
           { "name": "Team (+ VAT)", "value": 84900, "currency": "GBP" },
           { "name": "Premier Pass (+ VAT)", "value": 186000, "currency": "GBP" },
-          { "name": "Digital Pass (+ VAT)", "value": 24900, "currency": "GBP" },
+          { "name": "Digital Pass (+ VAT)", "value": 24900, "currency": "GBP" }
         ],
         "description": "The leadership conference for tech leads and engineering leaders."
       },
