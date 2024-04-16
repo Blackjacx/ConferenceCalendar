@@ -1,6 +1,20 @@
 {
   "data": {
-    "2024": [],
+    "2024": [
+      {
+        "name": "iOSKonf",
+        "url": "https://www.ioskonf.mk",
+        "twitter": null,
+        "dates": "05 / 14-15",
+        "location": "🇲🇰 Skopje",
+        "pricing": [
+          { "name": "Talks + Workshops (+ VAT)", "value": 25000, "currency": "EUR" },
+          { "name": "Talks only (+ VAT)", "value": 15000, "currency": "EUR" },
+          { "name": "Workshop only (+ VAT)", "value": 15000, "currency": "EUR" }
+        ],
+        "description": ""
+      }
+    ],
     "2023": [
       {
         "name": "iOS Conf SG",
