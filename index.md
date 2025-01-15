@@ -6,6 +6,608 @@ This site lists interesting tech conferences throughout the year(s) including mo
 
 If you want to contribute, please fork the repo and create a pull request from `main` to your branch. I will review your changes and merge them.
 
+## 2025
+
+### [iOS Conf SG](https://iosconf.sg) 
+
+Run by iOS Developers, for the community since 2013. iOS Conf SG is recognised as the best iOS conference by the [Swift Community](https://www.hackingwithswift.com/awards)
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>01 / 15-17</td> <td>🇸🇬 Singapore</td> <td><ul><li>899.00 SGD - Individual Sponsor</li><li>309.00 SGD - Conference Only</li><li>379.00 SGD - Regular All-in</li><li>359.00 SGD - Early Bird All-in</li><li>259.00 SGD - Early Bird Conference Only</li><li>299.00 SGD - Super Early Bird All-in</li><li>199.00 SGD - Super Early Bird Conference Only</li></ul></td>
+
+</tr>
+
+</table>
+
+### [ARCTIC Conference](https://arcticonference.com) 
+
+The World's Northernmost Apple Developers' Conference
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>03 / 11-13</td> <td>🇫🇮 Oulu</td> <td><ul><li>399.00 EUR - Blind Bird</li><li>449.00 EUR - Early Bird</li><li>499.00 EUR - Regular Bird</li><li>549.00 EUR - Late Bird</li></ul></td>
+
+</tr>
+
+</table>
+
+### [AppDevCon](https://appdevcon.nl) 
+
+By app developers, for app developers
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>03 / 18-21</td> <td>🇳🇱 Amsterdam</td> <td><ul><li>970.00 EUR - The Full Appdevcon Experience</li><li>510.00 EUR - The Two-day Appdevcon Experience</li><li>290.00 EUR - Friday Main Conference Day Only Tickets</li><li>275.00 EUR - Thursday Workshop Day Only Tickets</li><li>250.00 EUR - Wednesday Workshop Day Only Tickets</li><li>250.00 EUR - Tuesday Workshop Day Only Tickets</li><li>125.00 EUR - Student tickets</li></ul></td>
+
+</tr>
+
+</table>
+
+### [SwiftHEROES](https://swiftheroes.com/2025) 
+
+Swift Heroes is a conference for developers, designers and project managers at all levels of experience with the Swift ecosystem.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>04 / 8-9</td> <td>🇮🇹 Turin</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [try! Swift Tokyo](https://tryswift.jp) 
+
+
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>04 / 09-11</td> <td>🇯🇵 Tokyo</td> <td><ul><li>16900.00 JPY - Super Swift Bird</li><li>20900.00 JPY - Swift Bird</li><li>24900.00 JPY - Penguin</li><li>30000.00 JPY - Individual Sponsor</li><li>0.00 JPY - Student</li><li>0.00 JPY - Speaker</li><li>0.00 JPY - Organizer / Staff</li></ul></td>
+
+</tr>
+
+</table>
+
+### [Deep Dish Swift](https://deepdishswift.com) 
+
+A supreme Swift developer conference being served in Chicago, Illinois
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>04 / 27-29</td> <td>🇺🇸 Chicago</td> <td><ul><li>549.00 USD - Early Bird</li><li>649.00 USD - Standard</li></ul></td>
+
+</tr>
+
+</table>
+
+### [UXDX](https://uxdx.com/usa/2025) 
+
+The conference that breaks down the barriers between Product, UX, Design and Dev so you can build better products, faster, together.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>05 / 12-14</td> <td>🇺🇸 New York City</td> <td><ul><li>309.00 USD - Online • Talks (+ VAT)</li><li>989.00 USD - Live • Talks (+ VAT)</li><li>1639.00 USD - Live • Talks & Workshops (+ VAT)</li><li>3639.00 USD - Live • Executive & Talks & Workshops (+ VAT)</li></ul></td>
+
+</tr>
+
+</table>
+
+### [iOSKonf](https://www.ioskonf.mk) 
+
+by CocoaHeadsMK
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>05 / 13-15</td> <td>🇲🇰 Skopje</td> <td><ul><li>18000.00 MKD - Conference & Workshop Early Bird</li><li>12000.00 MKD - Conference Early Bird</li><li>21000.00 MKD - Conference & Workshop</li><li>15000.00 MKD - Conference</li></ul></td>
+
+</tr>
+
+</table>
+
+### [WWDC](https://developer.apple.com/wwdc) 
+
+Apple's world wide developer conference
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇺🇸 Cupertino</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [One More Thing](https://omt-conf.com/) 
+
+The world's largest IRL gathering of Apple developers
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇺🇸 Cupertino</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [LDX3](https://leaddev.com/leaddev-london) 
+
+The leadership conference for tech leads and engineering leaders.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>06 / 16-17</td> <td>🇬🇧 London</td> <td><ul><li>1149.00 GBP - Standard (+ VAT)</li><li>949.00 GBP - Group (+ VAT)</li><li>899.00 GBP - Team (+ VAT)</li><li>0.00 GBP - DirectorPlus Pass (+ VAT)</li></ul></td>
+
+</tr>
+
+</table>
+
+### [SwiftConf](https://swiftconf.com) 
+
+International Swift and iOS Conference
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇩🇪 Cologne</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [Swift Island](https://swiftisland.nl) 
+
+Swift Island is an experimental conference in the broadest sense. After WWDC, we invite you to join us for a hands-on experience with all of Apple’s newly announced API's and Frameworks, in sessions guided by top-notch mentors.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇳🇱 Texel (on an island)</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [iOSDevUK](https://www.iosdevuk.com) 
+
+The Duracell bunny of conferences
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇬🇧 Aberystwyth</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [Macoun](https://macoun.de) 
+
+The Macoun is Europe's biggest, German speaking Apple developer conference
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>09 / 27-28</td> <td>🇩🇪 Frankfurt am Main</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [SwiftConnection](https://swiftconnection.io) 
+
+Swift Connection, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies, and previously known as FrenchKit, will welcome you to its largest edition ever.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>09 / n/a</td> <td>🇫🇷 Paris</td> <td><ul><li>299.00 EUR - Blind Bird (+ VAT)</li><li>349.00 EUR - Early Bird (+ VAT)</li><li>399.00 EUR - Regular (+ VAT)</li></ul></td>
+
+</tr>
+
+</table>
+
+### [SwiftLeeds](https://swiftleeds.co.uk) 
+
+Founded by Adam Rush in 2019, SwiftLeeds has set out to bring a modern, inclusive conference to the north of the UK.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>10 / 07-08</td> <td>🇬🇧 Leeds</td> <td><ul><li>180.00 GBP - Super Early Bird</li><li>0.00 GBP - n/a</li></ul></td>
+
+</tr>
+
+</table>
+
+### [Pragma Conference](https://www.pragmaconference.com) 
+
+Join us for two days of immersive Apple development. Dive into cutting-edge insights, connect with experts, and power up your skills.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇮🇹 Bologna</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [DO iOS](https://do-ios.com) 
+
+Conference for iOS Developers
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>11 / 11-13</td> <td>🇳🇱 Amsterdam</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [NSSpain](https://nsspain.com) ([@nsspain](https://x.com/nsspain))
+
+The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇪🇸 Logroño</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [ADDC](https://addconf.com) 
+
+App design & development conference
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇪🇸 Barcelona</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [heise MacDev](https://heise-macdev.de) 
+
+German speaking conference about Apple technology
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇩🇪 Karlsruhe</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [SwiftAlps](https://www.theswiftalps.com/) 
+
+An experimental event taking place in the Swiss Alps. This event is about community. Period. The major goal is to experiment with the Swift programming language with all the other attendees, trying to learn, while failing, as much as possible.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇨🇭 Swiss Alps</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [Playground](https://twitter.com/playgroundconf) ([@playgroundconf](https://x.com/playgroundconf))
+
+Playgrounds is an independent Australian conference dedicated to Swift and Apple developers.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇦🇺 Melbourne</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [AltConf](https://altconf.com) 
+
+AltConf is a community-driven event, assembled to serve developers and a product driven community.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇺🇸 San Jose</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [UIKonf](https://www.uikonf.com) 
+
+UIKonf is Berlin's independent conference for serious iOS developers.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇩🇪 Berlin</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [try! Swift NYC](https://www.tryswift.co/events/2023/nyc/) 
+
+This year, the focus of the conference will be on AI + Swift / iOS Development.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇺🇸 New York City</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [App Builders](https://www.appbuilders.ch) 
+
+A conference about mobile technologies in the heart of Europe.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇨🇭 Ascona</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [Swift TO Conf](https://www.swiftconf.to) 
+
+Two days filled with talks about all things Swift programming. Beyond just iOS and Mac development, this conference is about celebrating the language and its many uses.
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇨🇦 Toronto</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
+### [NYSwifty]() ([@nyswifty](https://x.com/nyswifty))
+
+A brand new iOS conference in NYC
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>n/a</td> <td>🇺🇸 New York City</td> <td>n/a</td>
+
+</tr>
+
+</table>
+
 ## 2024
 
 ### [iOS Conf SG](https://iosconf.sg) 
@@ -268,6 +870,26 @@ The Duracell bunny of conferences
 
 </table>
 
+### [NSSpain](https://nsspain.com) ([@nsspain](https://x.com/nsspain))
+
+The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!
+
+<table>
+
+<tr>
+
+<th>Dates</th> <th>Location</th> <th>Pricing</th>
+
+</tr>
+
+<tr>
+
+<td>09 / 18-19</td> <td>🇪🇸 Logroño</td> <td><ul><li>349.00 EUR - Super Early Bird</li><li>399.00 EUR - Early Bird</li><li>249.00 EUR - Workshops</li><li>75.00 EUR - After Party Extra Ticket</li></ul></td>
+
+</tr>
+
+</table>
+
 ### [SwiftConnection](https://swiftconnection.io) 
 
 Swift Connection is the new FrenchKit, the French conference dedicated to Swift, iOS, macOS and the ecosystems of Apple technologies since 2016.
@@ -363,26 +985,6 @@ Conference for iOS Developers
 <tr>
 
 <td></td> <td></td> <td>n/a</td>
-
-</tr>
-
-</table>
-
-### [NSSpain](https://nsspain.com) ([@nsspain](https://x.com/nsspain))
-
-The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!
-
-<table>
-
-<tr>
-
-<th>Dates</th> <th>Location</th> <th>Pricing</th>
-
-</tr>
-
-<tr>
-
-<td>n/a</td> <td>🇪🇸 Logroño</td> <td>n/a</td>
 
 </tr>
 
@@ -548,7 +1150,7 @@ A conference about mobile technologies in the heart of Europe.
 
 </table>
 
-### [Macoun](https://macoun.de) 
+### [Macoun](https://macoun.de) ([@MacounFFM](https://x.com/MacounFFM))
 
 The Macoun is Europes biggest, German speaking Apple developer conference
 
