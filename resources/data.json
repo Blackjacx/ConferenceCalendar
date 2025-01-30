@@ -6,9 +6,9 @@
         "url": "https://iosconf.sg",
         "twitter": "iosconfsg",
         "bluesky": null,
-        "dates": "01 / 15-17",
+        "date_range": ["2025-01-15","2025-01-17"],
         "location": "🇸🇬 Singapore",
-        "pricing": [
+        "tickets": [
           { "name": "Super Early Bird Conference Only", "value": 19900, "currency": "SGD" },
           { "name": "Super Early Bird All-in", "value": 29900, "currency": "SGD" },
           { "name": "Early Bird Conference Only", "value": 25900, "currency": "SGD" },
@@ -24,9 +24,10 @@
         "url": "https://arcticonference.com",
         "twitter": "ARCTIConference",
         "bluesky": null,
+        "date_range": ["2025-03-11","2025-03-13"],
         "dates": "03 / 11-13",
         "location": "🇫🇮 Oulu",
-        "pricing": [
+        "tickets": [
           { "name": "Blind Bird", "value": 39900, "currency": "EUR" },
           { "name": "Early Bird", "value": 44900, "currency": "EUR" },
           { "name": "Regular Bird", "value": 49900, "currency": "EUR" },
@@ -39,9 +40,9 @@
         "url": "https://appdevcon.nl",
         "twitter": "appdevcon",
         "bluesky": null,
-        "dates": "03 / 18-21",
+        "date_range": ["2025-03-18","2025-03-21"],
         "location": "🇳🇱 Amsterdam",
-        "pricing": [
+        "tickets": [
           { "name": "The Full Appdevcon Experience", "value": 97000, "currency": "EUR" },
           { "name": "The Two-day Appdevcon Experience", "value": 51000, "currency": "EUR" },
           { "name": "Friday Main Conference Day Only Tickets", "value": 29000, "currency": "EUR" },
@@ -57,9 +58,9 @@
         "url": "https://swiftheroes.com/2025",
         "twitter": "swiftheroes_it",
         "bluesky": null,
-        "dates": "04 / 08-09",
+        "date_range": ["2025-04-08","2025-04-09"],
         "location": "🇮🇹 Turin",
-        "pricing": [
+        "tickets": [
           { "name": "Online (+ VAT)", "value": 2900, "currency": "EUR" },
           { "name": "Very Early Bird (+ VAT)", "value": 12900, "currency": "EUR" },
           { "name": "Early Bird (+ VAT)", "value": 17900, "currency": "EUR" },
@@ -72,13 +73,13 @@
         "url": "https://tryswift.jp",
         "twitter": "tryswiftconf",
         "bluesky": null,
-        "dates": "04 / 09-11",
+        "date_range": ["2025-04-09","2025-04-11"],
         "location": "🇯🇵 Tokyo",
-        "pricing": [
-          { "name": "Super Swift Bird", "value": 1690000, "currency": "JPY" },
-          { "name": "Swift Bird", "value": 2090000, "currency": "JPY" },
-          { "name": "Penguin", "value": 2490000, "currency": "JPY" },
-          { "name": "Individual Sponsor", "value": 3000000, "currency": "JPY" },
+        "tickets": [
+          { "name": "Super Swift Bird", "value": 16900, "currency": "JPY" },
+          { "name": "Swift Bird", "value": 20900, "currency": "JPY" },
+          { "name": "Penguin", "value": 24900, "currency": "JPY" },
+          { "name": "Individual Sponsor", "value": 30000, "currency": "JPY" },
           { "name": "Student", "value": 0, "currency": "JPY" },
           { "name": "Speaker", "value": 0, "currency": "JPY" },
           { "name": "Organizer / Staff", "value": 0, "currency": "JPY" }
@@ -90,9 +91,9 @@
         "url": "https://deepdishswift.com",
         "twitter": "DeepDishSwift",
         "bluesky": null,
-        "dates": "04 / 27-29",
+        "date_range": ["2025-04-27","2025-04-29"],
         "location": "🇺🇸 Chicago",
-        "pricing": [
+        "tickets": [
           { "name": "Early Bird", "value": 54900, "currency": "USD" },
           { "name": "Standard", "value": 64900, "currency": "USD" }
         ],
@@ -103,9 +104,9 @@
         "url": "https://uxdx.com/usa/2025",
         "twitter": "uxdxconf",
         "bluesky": null,
-        "dates": "05 / 12-14",
+        "date_range": ["2025-05-12","2025-05-14"],
         "location": "🇺🇸 New York City",
-        "pricing": [
+        "tickets": [
           { "name": "Online • Talks (+ VAT)", "value": 30900, "currency": "USD" },
           { "name": "Live • Talks (+ VAT)", "value": 98900, "currency": "USD" },
           { "name": "Live • Talks & Workshops (+ VAT)", "value": 163900, "currency": "USD" },
@@ -118,9 +119,9 @@
         "url": "https://www.ioskonf.mk",
         "twitter": "iOSKonf",
         "bluesky": null,
-        "dates": "05 / 13-15",
+        "date_range": ["2025-05-13","2025-05-15"],
         "location": "🇲🇰 Skopje",
-        "pricing": [
+        "tickets": [
           { "name": "Conference & Workshop Early Bird", "value": 1800000, "currency": "MKD" },
           { "name": "Conference Early Bird", "value": 1200000, "currency": "MKD" },
           { "name": "Conference & Workshop", "value": 2100000, "currency": "MKD" },
@@ -133,9 +134,9 @@
         "url": "https://swiftcraft.uk/",
         "twitter": "swiftcraftuk",
         "bluesky": null,
-        "dates": "05 / 19-21",
+        "date_range": ["2025-05-19","2025-05-21"],
         "location": "🇬🇧 Kent",
-        "pricing": [
+        "tickets": [
           { "name": "Main (two-day) conference (standard rate)", "value": 48000, "currency": "GBP" },
           { "name": "Tutorials day (standard rate)", "value": 36000, "currency": "GBP" },
           { "name": "One day of main conference (standard rate)", "value": 30000, "currency": "GBP" },
@@ -157,9 +158,9 @@
         "url": "https://mdevcamp.eu/",
         "twitter": "mdevcamp",
         "bluesky": null,
-        "dates": "06 / 02-03",
+        "date_range": ["2025-06-02","2025-06-03"],
         "location": "🇨🇿 Prague",
-        "pricing": [
+        "tickets": [
           { "name": "Early bird", "value": 15900, "currency": "EUR" },
           { "name": "Early Bird - Team ticket 5+1", "value": 75900, "currency": "EUR" },
           { "name": "Student Special", "value": 7900, "currency": "EUR" }
@@ -171,9 +172,9 @@
         "url": "https://developer.apple.com/wwdc",
         "twitter": null,
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇺🇸 Cupertino",
-        "pricing": [],
+        "tickets": [],
         "description": "Apple's world wide developer conference"
       },
       {
@@ -181,9 +182,9 @@
         "url": "https://omt-conf.com/",
         "twitter": "OneMoreThang",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇺🇸 Cupertino",
-        "pricing": [],
+        "tickets": [],
         "description": "The world's largest IRL gathering of Apple developers"
       },
       {
@@ -191,9 +192,9 @@
         "url": "https://leaddev.com/leaddev-london",
         "twitter": "TheLeadDev",
         "bluesky": null,
-        "dates": "06 / 16-17",
+        "date_range": ["2025-06-16","2025-06-17"],
         "location": "🇬🇧 London",
-        "pricing": [
+        "tickets": [
           { "name": "Standard (+ VAT)", "value": 114900, "currency": "GBP" },
           { "name": "Group (+ VAT)", "value": 94900, "currency": "GBP" },
           { "name": "Team (+ VAT)", "value": 89900, "currency": "GBP" },
@@ -206,9 +207,9 @@
         "url": "https://swiftconf.com",
         "twitter": "SwiftConf",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇩🇪 Cologne",
-        "pricing": [],
+        "tickets": [],
         "description": "International Swift and iOS Conference"
       },
       {
@@ -216,9 +217,9 @@
         "url": "https://swiftisland.nl",
         "twitter": "SwiftIslandNL",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇳🇱 Texel (on an island)",
-        "pricing": [],
+        "tickets": [],
         "description": "Swift Island is an experimental conference in the broadest sense. After WWDC, we invite you to join us for a hands-on experience with all of Apple’s newly announced API's and Frameworks, in sessions guided by top-notch mentors."
       },
       {
@@ -226,9 +227,9 @@
         "url": "https://www.iosdevuk.com",
         "twitter": "IOSDEVUK",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇬🇧 Aberystwyth",
-        "pricing": [],
+        "tickets": [],
         "description": "The Duracell bunny of conferences"
       },
       {
@@ -236,9 +237,9 @@
         "url": "https://x.com/macadminsconf",
         "twitter": "macadminsconf",
         "bluesky": null,
-        "dates": "07 / 15-18",
+        "date_range": ["2025-07-15","2025-07-18"],
         "location": "🇺🇸 Pennsylvania",
-        "pricing": [],
+        "tickets": [],
         "description": "An annual gathering of systems administrators interested in deploying, managing, and securing Apple products and services."
       },
       {
@@ -246,9 +247,9 @@
         "url": "https://macoun.de",
         "twitter": "MacounFFM",
         "bluesky": null,
-        "dates": "09 / 27-28",
+        "date_range": ["2025-09-27","2025-09-28"],
         "location": "🇩🇪 Frankfurt am Main",
-        "pricing": [],
+        "tickets": [],
         "description": "The Macoun is Europe's biggest, German speaking Apple developer conference"
       },
       {
@@ -256,9 +257,9 @@
         "url": "https://swiftconnection.io",
         "twitter": "swiftconn",
         "bluesky": null,
-        "dates": "10 / 06-07",
+        "date_range": ["2025-10-06","2025-10-07"],
         "location": "🇫🇷 Paris",
-        "pricing": [
+        "tickets": [
           { "name": "Blind Bird (+ VAT)", "value": 29900, "currency": "EUR" },
           { "name": "Early Bird (+ VAT)", "value": 34900, "currency": "EUR" },
           { "name": "Regular (+ VAT)", "value": 39900, "currency": "EUR" }
@@ -270,9 +271,9 @@
         "url": "https://swiftleeds.co.uk",
         "twitter": "swift_leeds",
         "bluesky": null,
-        "dates": "10 / 07-08",
+        "date_range": ["2025-10-07","2025-10-08"],
         "location": "🇬🇧 Leeds",
-        "pricing": [
+        "tickets": [
           { "name": "Super Early Bird", "value": 18000, "currency": "GBP" },
           { "name": "n/a", "value": 0, "currency": "GBP" }
         ],
@@ -283,9 +284,9 @@
         "url": "https://www.pragmaconference.com",
         "twitter": "pragmamarkorg",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇮🇹 Bologna",
-        "pricing": [],
+        "tickets": [],
         "description": "Join us for two days of immersive Apple development. Dive into cutting-edge insights, connect with experts, and power up your skills."
       },
       {
@@ -293,9 +294,10 @@
         "url": "https://do-ios.com",
         "twitter": "iOSConf",
         "bluesky": null,
+        "date_range": ["2025-11-11","2025-11-13"],
         "dates": "11 / 11-13",
         "location": "🇳🇱 Amsterdam",
-        "pricing": [],
+        "tickets": [],
         "description": "Conference for iOS Developers"
       },
       {
@@ -303,9 +305,9 @@
         "url": "https://nsspain.com",
         "twitter": "nsspain",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇪🇸 Logroño",
-        "pricing": [],
+        "tickets": [],
         "description": "The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!"
       },
       {
@@ -313,9 +315,9 @@
         "url": "https://addconf.com",
         "twitter": "addconf",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇪🇸 Barcelona",
-        "pricing": [],
+        "tickets": [],
         "description": "App design & development conference"
       },
       {
@@ -323,9 +325,9 @@
         "url": "https://heise-macdev.de",
         "twitter": "heiseonline",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇩🇪 Karlsruhe",
-        "pricing": [],
+        "tickets": [],
         "description": "German speaking conference about Apple technology"
       },
       {
@@ -333,9 +335,9 @@
         "url": "https://www.theswiftalps.com/",
         "twitter": "swiftalps",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇨🇭 Swiss Alps",
-        "pricing": [],
+        "tickets": [],
         "description": "An experimental event taking place in the Swiss Alps. This event is about community. Period. The major goal is to experiment with the Swift programming language with all the other attendees, trying to learn, while failing, as much as possible."
       },
       {
@@ -343,9 +345,9 @@
         "url": "https://playgroundconf.com",
         "twitter": "playgroundconf",
         "bluesky": "playgroundconf.bsky.social",
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇦🇺 Melbourne",
-        "pricing": [],
+        "tickets": [],
         "description": "Playgrounds is an independent Australian conference dedicated to Swift and Apple developers."
       },
       {
@@ -353,9 +355,9 @@
         "url": "https://www.uikonf.com",
         "twitter": "uikonf",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇩🇪 Berlin",
-        "pricing": [],
+        "tickets": [],
         "description": "UIKonf is Berlin's independent conference for serious iOS developers."
       },
       {
@@ -363,9 +365,9 @@
         "url": "https://www.tryswift.co/events/2023/nyc/",
         "twitter": "tryswiftnyc",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇺🇸 New York City",
-        "pricing": [],
+        "tickets": [],
         "description": "This year, the focus of the conference will be on AI + Swift / iOS Development."
       },
       {
@@ -373,9 +375,9 @@
         "url": "https://www.appbuilders.ch",
         "twitter": "appbuilders_ch",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇨🇭 Ascona",
-        "pricing": [],
+        "tickets": [],
         "description": "A conference about mobile technologies in the heart of Europe."
       },
       {
@@ -383,19 +385,19 @@
         "url": "https://www.swiftconf.to",
         "twitter": "swiftconfto",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇨🇦 Toronto",
-        "pricing": [],
+        "tickets": [],
         "description": "Two days filled with talks about all things Swift programming. Beyond just iOS and Mac development, this conference is about celebrating the language and its many uses."
       },
       {
         "name": "NYSwifty",
-        "url": "",
+        "url": "https://x.com/nyswifty",
         "twitter": "nyswifty",
         "bluesky": null,
-        "dates": "n/a",
+        "date_range": null,
         "location": "🇺🇸 New York City",
-        "pricing": [],
+        "tickets": [],
         "description": "A brand new iOS conference in NYC"
       }
     ]

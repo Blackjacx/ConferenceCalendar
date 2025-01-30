@@ -6,7 +6,7 @@ This repository stores interesting tech conferences throughout the year(s).
 
 The details of each conference are stored in a [JSON file](https://github.com/Blackjacx/ConferenceCalendar/blob/main/resources/data.json). 
 
-This data is converted to a markdown file using a [shell script](https://github.com/Blackjacx/ConferenceCalendar/blob/main/source/gen-markdown.sh) which is currently executed manually before deployment.
+This data is converted to a markdown file using a [Swift script](https://github.com/Blackjacx/ConferenceCalendar/blob/main/source/gen-markdown.swift) which is currently executed manually before deployment.
 
 When changes are pushed to the `main` branch, [GitHub Actions](https://github.com/Blackjacx/ConferenceCalendar/actions) deploys this markdown file to [GitHub Pages](https://blackjacx.github.io/ConferenceCalendar).
 
@@ -15,7 +15,7 @@ When changes are pushed to the `main` branch, [GitHub Actions](https://github.co
 To deploy the website the following steps have to be taken on the branch of the current year (referred to as `<year-branch>`):
 
 - check that the LICENSE file date is up to date
-- Run `./source/gen-markdown.sh` to update the markdown file
+- Run `./source/gen-markdown.sh > index.md` to update the markdown file
 - Commit all changes on `<year-branch>`
 - Rebase `main` on `<year-branch>`
 - Push both branches
