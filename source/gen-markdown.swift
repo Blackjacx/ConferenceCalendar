@@ -84,7 +84,9 @@ func generateMarkdown(conferencesByYear: [String: [Conference]]) throws -> Strin
         out += ["## \(year)"]
 
         for conference in conferences {
-            let twitter = conference.twitter.map { "([@\($0)](https://x.com/\($0)))" } ?? ""
+            let twitter = conference.twitter.map { "[X (former Twitter)](https://x.com/\($0))" }
+            let mastodon = conference.mastodon.map { "[Mastodon](\($0))" }
+            let bluesky = conference.bluesky.map { "[Bluesky](\($0))" }
             let dates = if let dateRange = conference.dateRange {
                 dateStyle.format(dateRange)
             } else {
@@ -101,16 +103,22 @@ func generateMarkdown(conferencesByYear: [String: [Conference]]) throws -> Strin
                 }()
             }
             out += [
-                "### [\(conference.name)](\(conference.url)) \(twitter)",
-                conference.description,
-                "<table>",
-                "<tr>",
-                "<th>Dates</th> <th>Location</th> <th>Pricing</th>",
-                "</tr>",
-                "<tr>",
-                "<td>\(dates)</td> <td>\(location)</td> <td>\(pricing)</td>",
-                "</tr>",
-                "</table>",
+                """
+                ### [\(conference.name)](\(conference.url)) 
+
+                \([twitter, mastodon, bluesky].compactMap { $0 }.joined(separator: " • "))
+
+                \(conference.description)
+
+                <table>
+                    <tr>
+                        <th>Dates</th> <th>Location</th> <th>Pricing</th>
+                    </tr>
+                    <tr>
+                        <td>\(dates)</td> <td>\(location)</td> <td>\(pricing)</td>
+                    </tr>
+                </table>
+                """,
             ]
         }
     }
@@ -507,4 +515,3 @@ struct DataWrapper<T: Codable>: Codable {
         case object = "data"
     }
 }
-
