@@ -138,6 +138,21 @@
         "description": "by CocoaHeadsMK"
       },
       {
+        "name": "Local-First Conf",
+        "url": "https://www.localfirstconf.com",
+        "twitter": "localfirstconf",
+        "bluesky": null,
+        "mastodon": "https://mastodon.social/@localfirstconf",
+        "date_range": ["2025-05-26","2025-05-28"],
+        "location": "🇩🇪 Berlin",
+        "tickets": [
+          { "name": "Early Bird", "value": 23900, "currency": "EUR" },
+          { "name": "Normal Bird", "value": 34900, "currency": "EUR" },
+          { "name": "Late Bird", "value": 49900, "currency": "EUR" }
+        ],
+        "description": "The first local-first conference for software builders"
+      },
+      {
         "name": "Swift Craft",
         "url": "https://swiftcraft.uk/",
         "twitter": "swiftcraftuk",
@@ -248,7 +263,7 @@
       },
       {
         "name": "Macadmins",
-        "url": "https://x.com/macadminsconf",
+        "url": "https://macadmins.psu.edu",
         "twitter": "macadminsconf",
         "bluesky": null,
         "mastodon": "https://mastodon.social/@macadminsconf",
@@ -292,8 +307,10 @@
         "date_range": ["2025-10-07","2025-10-08"],
         "location": "🇬🇧 Leeds",
         "tickets": [
+          { "name": "Live Stream Pass", "value": 6900, "currency": "GBP" },
           { "name": "Super Early Bird", "value": 18000, "currency": "GBP" },
-          { "name": "n/a", "value": 0, "currency": "GBP" }
+          { "name": "Early Bird", "value": 20000, "currency": "GBP" },
+          { "name": "Standard", "value": 22000, "currency": "GBP" }
         ],
         "description": "Founded by Adam Rush in 2019, SwiftLeeds has set out to bring a modern, inclusive conference to the north of the UK."
       },
@@ -303,9 +320,12 @@
         "twitter": "pragmamarkorg",
         "bluesky": null,
         "mastodon": "https://mastodon.social/@pragmamark",
-        "date_range": null,
+        "date_range": ["2025-10-30","2025-10-31"],
         "location": "🇮🇹 Bologna",
-        "tickets": [],
+        "tickets": [
+          { "name": "Super Early Bird", "value": 21000, "currency": "EUR" },
+          { "name": "n/a", "value": 0, "currency": "EUR" }
+        ],
         "description": "Join us for two days of immersive Apple development. Dive into cutting-edge insights, connect with experts, and power up your skills."
       },
       {

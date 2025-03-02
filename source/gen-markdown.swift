@@ -86,7 +86,7 @@ func generateMarkdown(conferencesByYear: [String: [Conference]]) throws -> Strin
         for conference in conferences {
             let twitter = conference.twitter.map { "[X (former Twitter)](https://x.com/\($0))" }
             let mastodon = conference.mastodon.map { "[Mastodon](\($0))" }
-            let bluesky = conference.bluesky.map { "[Bluesky](\($0))" }
+            let bluesky = conference.bluesky.map { "[Bluesky](https://bsky.app/profile/\($0))" }
             let dates = if let dateRange = conference.dateRange {
                 dateStyle.format(dateRange)
             } else {

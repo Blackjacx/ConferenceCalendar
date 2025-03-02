@@ -25,7 +25,7 @@ Run by iOS Developers, for the community since 2013. iOS Conf SG is recognised a
 
 ### [ARCTIC Conference](https://arcticonference.com) 
 
-[X (former Twitter)](https://x.com/ARCTIConference) • [Mastodon](https://mastodon.social/@ARCticConference) • [Bluesky](arcticconference.bsky.social)
+[X (former Twitter)](https://x.com/ARCTIConference) • [Mastodon](https://mastodon.social/@ARCticConference) • [Bluesky](https://bsky.app/profile/arcticconference.bsky.social)
 
 The World's Northernmost Apple Developers' Conference
 
@@ -85,7 +85,7 @@ Swift and to showcase our Swift knowledge and skills, and to collaborate with ea
 
 ### [Deep Dish Swift](https://deepdishswift.com) 
 
-[X (former Twitter)](https://x.com/DeepDishSwift) • [Mastodon](https://iosdev.space/@DeepDishSwift) • [Bluesky](deepdishswift.com)
+[X (former Twitter)](https://x.com/DeepDishSwift) • [Mastodon](https://iosdev.space/@DeepDishSwift) • [Bluesky](https://bsky.app/profile/deepdishswift.com)
 
 A supreme Swift developer conference being served in Chicago, Illinois
 
@@ -100,7 +100,7 @@ A supreme Swift developer conference being served in Chicago, Illinois
 
 ### [UXDX](https://uxdx.com/usa/2025) 
 
-[X (former Twitter)](https://x.com/uxdxconf) • [Mastodon](https://mastodon.social/@uxdx) • [Bluesky](uxdx.com)
+[X (former Twitter)](https://x.com/uxdxconf) • [Mastodon](https://mastodon.social/@uxdx) • [Bluesky](https://bsky.app/profile/uxdx.com)
 
 The conference that breaks down the barriers between Product, UX, Design and Dev so you can build better products, faster, together.
 
@@ -125,6 +125,21 @@ by CocoaHeadsMK
     </tr>
     <tr>
         <td>May 13 – 15, 2025</td> <td>🇲🇰 Skopje</td> <td><ul> <li>MKD 18,000.00 - Conference & Workshop Early Bird</li><li>MKD 12,000.00 - Conference Early Bird</li><li>MKD 21,000.00 - Conference & Workshop</li><li>MKD 15,000.00 - Conference</li> </ul></td>
+    </tr>
+</table>
+
+### [Local-First Conf](https://www.localfirstconf.com) 
+
+[X (former Twitter)](https://x.com/localfirstconf) • [Mastodon](https://mastodon.social/@localfirstconf)
+
+The first local-first conference for software builders
+
+<table>
+    <tr>
+        <th>Dates</th> <th>Location</th> <th>Pricing</th>
+    </tr>
+    <tr>
+        <td>May 26 – 28, 2025</td> <td>🇩🇪 Berlin</td> <td><ul> <li>€239.00 - Early Bird</li><li>€349.00 - Normal Bird</li><li>€499.00 - Late Bird</li> </ul></td>
     </tr>
 </table>
 
@@ -248,7 +263,7 @@ The Duracell bunny of conferences
     </tr>
 </table>
 
-### [Macadmins](https://x.com/macadminsconf) 
+### [Macadmins](https://macadmins.psu.edu) 
 
 [X (former Twitter)](https://x.com/macadminsconf) • [Mastodon](https://mastodon.social/@macadminsconf)
 
@@ -265,7 +280,7 @@ An annual gathering of systems administrators interested in deploying, managing,
 
 ### [Macoun (not in 2025 😢)](https://macoun.de) 
 
-[X (former Twitter)](https://x.com/MacounFFM) • [Bluesky](macounffm.bsky.social)
+[X (former Twitter)](https://x.com/MacounFFM) • [Bluesky](https://bsky.app/profile/macounffm.bsky.social)
 
 The Macoun is Europe's biggest, German speaking Apple developer conference
 
@@ -295,7 +310,7 @@ Swift Connection, the French conference dedicated to Swift, iOS, macOS and the e
 
 ### [SwiftLeeds](https://swiftleeds.co.uk) 
 
-[X (former Twitter)](https://x.com/swift_leeds) • [Mastodon](https://iosdev.space/@SwiftLeeds) • [Bluesky](swiftleeds.co.uk)
+[X (former Twitter)](https://x.com/swift_leeds) • [Mastodon](https://iosdev.space/@SwiftLeeds) • [Bluesky](https://bsky.app/profile/swiftleeds.co.uk)
 
 Founded by Adam Rush in 2019, SwiftLeeds has set out to bring a modern, inclusive conference to the north of the UK.
 
@@ -304,7 +319,7 @@ Founded by Adam Rush in 2019, SwiftLeeds has set out to bring a modern, inclusiv
         <th>Dates</th> <th>Location</th> <th>Pricing</th>
     </tr>
     <tr>
-        <td>Oct 7 – 8, 2025</td> <td>🇬🇧 Leeds</td> <td><ul> <li>£180.00 - Super Early Bird</li><li>Free 🤑 - n/a</li> </ul></td>
+        <td>Oct 7 – 8, 2025</td> <td>🇬🇧 Leeds</td> <td><ul> <li>£69.00 - Live Stream Pass</li><li>£180.00 - Super Early Bird</li><li>£200.00 - Early Bird</li><li>£220.00 - Standard</li> </ul></td>
     </tr>
 </table>
 
@@ -319,7 +334,7 @@ Join us for two days of immersive Apple development. Dive into cutting-edge insi
         <th>Dates</th> <th>Location</th> <th>Pricing</th>
     </tr>
     <tr>
-        <td>n/a</td> <td>🇮🇹 Bologna</td> <td>n/a</td>
+        <td>Oct 30 – 31, 2025</td> <td>🇮🇹 Bologna</td> <td><ul> <li>€210.00 - Super Early Bird</li><li>Free 🤑 - n/a</li> </ul></td>
     </tr>
 </table>
 
@@ -340,7 +355,7 @@ Conference for iOS Developers
 
 ### [NSSpain](https://nsspain.com) 
 
-[X (former Twitter)](https://x.com/nsspain) • [Mastodon](https://mastodon.social/@nsspain) • [Bluesky](nsspain.bsky.social)
+[X (former Twitter)](https://x.com/nsspain) • [Mastodon](https://mastodon.social/@nsspain) • [Bluesky](https://bsky.app/profile/nsspain.bsky.social)
 
 The only (all-English) conference in Spain for iOS/macOS Developers, by @lascorbe & @borjareinares. The biggest iOS/macOS related event in the country carefully crafted for you by the community! Awesome speakers and lots of fun! Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!
 
@@ -400,7 +415,7 @@ An experimental event taking place in the Swiss Alps. This event is about commun
 
 ### [Playground](https://playgroundconf.com) 
 
-[X (former Twitter)](https://x.com/playgroundconf) • [Bluesky](playgroundconf.bsky.social)
+[X (former Twitter)](https://x.com/playgroundconf) • [Bluesky](https://bsky.app/profile/playgroundconf.bsky.social)
 
 Playgrounds is an independent Australian conference dedicated to Swift and Apple developers.
 
