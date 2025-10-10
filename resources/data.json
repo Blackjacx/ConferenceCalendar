@@ -27,7 +27,6 @@
         "bluesky": "arcticconference.bsky.social",
         "mastodon": "https://mastodon.social/@ARCticConference",
         "date_range": ["2025-03-11","2025-03-13"],
-        "dates": "03 / 11-13",
         "location": "🇫🇮 Oulu",
         "tickets": [
           { "name": "Blind Bird", "value": 39900, "currency": "EUR" },
@@ -284,6 +283,21 @@
         "description": "The Macoun is Europe's biggest, German speaking Apple developer conference"
       },
       {
+        "name": "ServerSide.swift",
+        "url": "https://www.serversideswift.info/",
+        "twitter": "SwiftServerConf",
+        "bluesky": "serversideswift.info",
+        "mastodon": "https://hachyderm.io/@swiftserverconf",
+        "date_range": ["2025-10-01","2025-10-03"],
+        "location": "🇬🇧 London",
+        "tickets": [
+          { "name": "Super Early Bird", "value": 37500, "currency": "GBP" },
+          { "name": "Early Bird", "value": 42500, "currency": "GBP" },
+          { "name": "Regular Ticket", "value": 49500, "currency": "GBP" },
+        ],
+        "description": "A framework-independent conference, where we will learn and share on a number of different related topics."
+      }
+      {
         "name": "SwiftConnection",
         "url": "https://swiftconnection.io",
         "twitter": "swiftconn",
@@ -335,7 +349,6 @@
         "bluesky": null,
         "mastodon": null,
         "date_range": ["2025-11-11","2025-11-13"],
-        "dates": "11 / 11-13",
         "location": "🇳🇱 Amsterdam",
         "tickets": [],
         "description": "Conference for iOS Developers"
