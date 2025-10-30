@@ -6,6 +6,23 @@ This site lists interesting tech conferences throughout the year(s) including mo
 
 If you want to contribute, please fork the repo and create a pull request from `main` to your branch. I will review your changes and merge them.
 
+## 2026
+
+### [Codemotion Madrid 2026](https://conferences.codemotion.com/madrid/) 
+
+
+
+El evento definitivo para desarrolladores, líderes tech y visionarios del sector
+
+<table>
+    <tr>
+        <th>Dates</th> <th>Location</th> <th>Pricing</th>
+    </tr>
+    <tr>
+        <td>20–21 apr 2026</td> <td>🇪🇸 Madrid</td> <td>n/a</td>
+    </tr>
+</table>
+
 ## 2025
 
 ### [iOS Conf SG](https://iosconf.sg) 

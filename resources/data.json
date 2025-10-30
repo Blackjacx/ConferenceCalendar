@@ -296,7 +296,7 @@
           { "name": "Regular Ticket", "value": 49500, "currency": "GBP" },
         ],
         "description": "A framework-independent conference, where we will learn and share on a number of different related topics."
-      }
+      },
       {
         "name": "SwiftConnection",
         "url": "https://swiftconnection.io",
@@ -462,6 +462,19 @@
         "location": "🇺🇸 New York City",
         "tickets": [],
         "description": "A brand new iOS conference in NYC"
+      }
+    ],
+    "2026": [
+      {
+        "name": "Codemotion Madrid 2026",
+        "url": "https://conferences.codemotion.com/madrid/",
+        "twitter": null,
+        "bluesky": null,
+        "mastodon": null,
+        "date_range": ["2026-04-20","2026-04-21"],
+        "location": "🇪🇸 Madrid",
+        "tickets": [],
+        "description": "El evento definitivo para desarrolladores, líderes tech y visionarios del sector"
       }
     ]
   }
